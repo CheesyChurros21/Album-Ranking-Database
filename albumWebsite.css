@@ -1,0 +1,70 @@
+header.websiteTitle {
+
+    font-size: 60px;
+    text-align: center;
+
+}
+
+body {
+
+    background-color: blanchedalmond !important;
+
+}
+
+.mediumText {
+
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.center {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+#bottomRight {
+
+    position:fixed;
+    right:0;
+    bottom:0;
+
+}
+
+th {
+
+    background-color: lightcoral;
+
+}
+
+tr:nth-child(even) {
+
+    background-color:whitesmoke;
+
+}
+
+tr:nth-child(odd) {
+
+    background-color:cornsilk;
+    
+}
+
+
+td {
+
+    text-align: center;
+    border-color: lemonchiffon;
+    border-width: 3px;
+    padding: 12px;
+
+}
+
+table {
+
+    border: 4px solid darkorange;
+
+}
